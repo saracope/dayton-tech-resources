@@ -1,4 +1,4 @@
-# gdidayton-resources
+# dayton-tech-resources
 Useful resources for those new to tech and coding in the Dayton area.
 Be sure to check out [Lamppost.io](https://lamppost.io/) for a list of upcoming Dayton tech events.
 
